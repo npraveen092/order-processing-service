@@ -1,4 +1,0 @@
-/Users/pravinn/Projects/order-processing-service/src/main/java/org/domi/OrderProcessingApplication.java
-/Users/pravinn/Projects/order-processing-service/src/main/java/org/domi/controller/OrderProcessingController.java
-/Users/pravinn/Projects/order-processing-service/src/main/java/org/domi/model/OrderSuccessEvent.java
-/Users/pravinn/Projects/order-processing-service/src/main/java/org/domi/service/kafka/OrderSuccessKafkaConsumer.java
